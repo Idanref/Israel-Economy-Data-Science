@@ -4,4 +4,4 @@
 #### 2. Can we predict the early resignation of workers in the Israeli economy?
 #### 3.Can we predict whether an employee is satisfied by their review?
 <br>
-A PowerPoint presentation can be found in the project main directory
+A PowerPoint presentation describing all the project steps & conclusions can be found in the project main directory
