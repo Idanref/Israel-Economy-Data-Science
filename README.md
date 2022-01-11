@@ -5,7 +5,5 @@
 #### 3.Can we predict whether an employee is satisfied by their review?
 <br>
 A PowerPoint presentation describing all the project steps & conclusions can be found in the project main directory
-<br>
-![alt text](https://user-images.githubusercontent.com/32392260/148947752-54173833-d8fe-4f4e-acf9-82e4060fb64e.png)
-
-<img src="https://user-images.githubusercontent.com/32392260/148947752-54173833-d8fe-4f4e-acf9-82e4060fb64e.png" width="350" title="hover text">
+<br><br>
+<img src="https://user-images.githubusercontent.com/32392260/148947752-54173833-d8fe-4f4e-acf9-82e4060fb64e.png" title="hover text">
