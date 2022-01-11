@@ -6,4 +6,4 @@
 <br>
 A PowerPoint presentation describing all the project steps & conclusions can be found in the project main directory
 <br>
-![Screen Shot 2022-01-11 at 15 05 30](https://user-images.githubusercontent.com/32392260/148948049-012daae9-b422-4150-b595-f6e9cb0a6660.png)
+![alt text] (https://user-images.githubusercontent.com/32392260/148947752-54173833-d8fe-4f4e-acf9-82e4060fb64e.png)
